@@ -1,0 +1,65 @@
+body {
+  background-color: #EAF6F6;
+  text-align: center;
+}
+
+form {
+  display: inline-block;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  width: 3%;
+  border-width: 6px;
+}
+
+h1 {
+  text-align: center;
+  color: #66BFBF;
+  font-family: "Sofia", sans-serif;
+}
+
+h3 {
+  text-align: center;
+  color: #E98580;
+  font-family: cursive;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+}
+
+li {
+  text-align: left;
+}
+
+ol {
+  display: table;
+  margin: 0 auto;
+}
+
+table {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+tr {
+  text-align: left;
+}
+
+td {
+  text-align: left;
+}
